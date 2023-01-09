@@ -1,5 +1,7 @@
 # WIP - Strava Client
 
+Trying to fetch some of my personal stats from Strava
+
 ## Tech Stack 🚀
 
 - Next.js
