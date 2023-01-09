@@ -11,9 +11,9 @@ Trying to fetch some of my personal stats from Strava
 
 ## Environment variables
 
-STRAVA_CLIENT_ID: The Client ID you got from Strava settings
-STRAVA_CLIENT_SECRET: The Client Secret you got from Strava settings
-STRAVA_REFRESH_TOKEN: The Refresh Token you got from Strava API
+- STRAVA_CLIENT_ID: The Client ID you got from Strava settings
+- STRAVA_CLIENT_SECRET: The Client Secret you got from Strava settings
+- STRAVA_REFRESH_TOKEN: The Refresh Token you got from Strava API
 
 ## Getting Started
 
