@@ -1,4 +1,17 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# WIP - Strava Client
+
+# Tech Stack 🚀
+
+- Next.js
+- useSWR
+- axios
+- Strava API
+
+## Environment variables
+
+STRAVA_CLIENT_ID
+STRAVA_CLIENT_SECRET
+STRAVA_REFRESH_TOKEN
 
 ## Getting Started
 
